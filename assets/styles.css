@@ -55,6 +55,11 @@ img:hover {
   border: 10px solid hotpink;
 }
 
+li {
+  padding: 1em;
+  background-color: rgba(0,250,154, 0.8);
+}
+
 a, a:visited {
   color: magenta;
 }
