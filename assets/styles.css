@@ -30,13 +30,15 @@ body {
   font-family: Papyrus, fantasy;
 }
 
-h1, h2, p {
+h1, h2 {
   background-color: lime;
   padding: 20px;
 }
 
 p {
   color: magenta;
+  background-color: PAPAYAWHIP;
+  padding: 20px;
 }
 
 img {
