@@ -30,6 +30,10 @@ body {
   font-family: Papyrus, fantasy;
 }
 
+body:hover {
+  background-image: url(../nat.gif);
+}
+
 h1, h2 {
   background-color: lime;
   padding: 20px;
@@ -45,4 +49,16 @@ p {
 img {
   width: 300px;
   border: 10px dotted hotpink;
+}
+
+img:hover {
+  border: 10px solid hotpink;
+}
+
+a, a:visited {
+  color: magenta;
+}
+
+a:hover {
+  font-style: italic;
 }
