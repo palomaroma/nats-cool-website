@@ -67,3 +67,7 @@ a, a:visited {
 a:hover {
   font-style: italic;
 }
+
+.poem {
+  width: 100%;
+}
